@@ -1,0 +1,543 @@
+#######################
+#  Numeric Responses  #
+#######################
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 4
+Communicating ideas and/or information:                             3
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 4
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         3
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     3
+Arithmetic Mean:                                                3.818
+Coefficient of Variation:                                       0.229
+=====================================================================
+
+Organizing the course:                                              3
+Explaining course requirements, grading criteria, and expectations: 4
+Communicating ideas and/or information:                             4
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 3
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         5
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     3
+Arithmetic Mean:                                                3.909
+Coefficient of Variation:                                       0.241
+=====================================================================
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 4
+Communicating ideas and/or information:                             3
+Showing respect and concern for students:                           3
+Stimulating interest in the course:                                 2
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         3
+Use of Canvas to support my learning in this course was:            4
+Use of Canvas to communicate important course information was:      4
+Overall, the effectiveness of the instructor in the course was:     3
+Arithmetic Mean:                                                3.273
+Coefficient of Variation:                                       0.198
+=====================================================================
+
+Organizing the course:                                              5
+Explaining course requirements, grading criteria, and expectations: 5
+Communicating ideas and/or information:                             4
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 4
+Creating an environment that helps students learn:                  4
+Giving useful feedback on course objectives:                        5
+Helping students achieve course objectives:                         5
+Use of Canvas to support my learning in this course was:            4
+Use of Canvas to communicate important course information was:      4
+Overall, the effectiveness of the instructor in the course was:     4
+Arithmetic Mean:                                                4.455
+Coefficient of Variation:                                       0.117
+=====================================================================
+
+Organizing the course:                                              3
+Explaining course requirements, grading criteria, and expectations: 4
+Communicating ideas and/or information:                             3
+Showing respect and concern for students:                           4
+Stimulating interest in the course:                                 3
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         3
+Use of Canvas to support my learning in this course was:            3
+Use of Canvas to communicate important course information was:      4
+Overall, the effectiveness of the instructor in the course was:     3
+Arithmetic Mean:                                                3.273
+Coefficient of Variation:                                       0.143
+=====================================================================
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 5
+Communicating ideas and/or information:                             4
+Showing respect and concern for students:                           4
+Stimulating interest in the course:                                 5
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        4
+Helping students achieve course objectives:                         5
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     4
+Arithmetic Mean:                                                4.364
+Coefficient of Variation:                                       0.155
+=====================================================================
+
+Organizing the course:                                              3
+Explaining course requirements, grading criteria, and expectations: 4
+Communicating ideas and/or information:                             2
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 3
+Creating an environment that helps students learn:                  1
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         4
+Use of Canvas to support my learning in this course was:            4
+Use of Canvas to communicate important course information was:      3
+Overall, the effectiveness of the instructor in the course was:     2
+Arithmetic Mean:                                                3.091
+Coefficient of Variation:                                       0.368
+=====================================================================
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 4
+Communicating ideas and/or information:                             3
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 5
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        4
+Helping students achieve course objectives:                         3
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     4
+Arithmetic Mean:                                                4.091
+Coefficient of Variation:                                       0.203
+=====================================================================
+
+Organizing the course:                                              3
+Explaining course requirements, grading criteria, and expectations: 4
+Communicating ideas and/or information:                             2
+Showing respect and concern for students:                           4
+Stimulating interest in the course:                                 2
+Creating an environment that helps students learn:                  2
+Giving useful feedback on course objectives:                        4
+Helping students achieve course objectives:                         4
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     3
+Arithmetic Mean:                                                3.455
+Coefficient of Variation:                                       0.327
+=====================================================================
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 5
+Communicating ideas and/or information:                             4
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 5
+Creating an environment that helps students learn:                  4
+Giving useful feedback on course objectives:                        5
+Helping students achieve course objectives:                         5
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     4
+Arithmetic Mean:                                                4.636
+Coefficient of Variation:                                       0.109
+=====================================================================
+
+Organizing the course:                                              3
+Explaining course requirements, grading criteria, and expectations: 3
+Communicating ideas and/or information:                             3
+Showing respect and concern for students:                           4
+Stimulating interest in the course:                                 2
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         3
+Use of Canvas to support my learning in this course was:            4
+Use of Canvas to communicate important course information was:      4
+Overall, the effectiveness of the instructor in the course was:     3
+Arithmetic Mean:                                                3.182
+Coefficient of Variation:                                       0.190
+=====================================================================
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 4
+Communicating ideas and/or information:                             5
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 3
+Creating an environment that helps students learn:                  4
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         5
+Use of Canvas to support my learning in this course was:            4
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     4
+Arithmetic Mean:                                                4.182
+Coefficient of Variation:                                       0.180
+=====================================================================
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 5
+Communicating ideas and/or information:                             3
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 4
+Creating an environment that helps students learn:                  4
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         4
+Use of Canvas to support my learning in this course was:            3
+Use of Canvas to communicate important course information was:      4
+Overall, the effectiveness of the instructor in the course was:     4
+Arithmetic Mean:                                                3.909
+Coefficient of Variation:                                       0.179
+=====================================================================
+
+Organizing the course:                                              5
+Explaining course requirements, grading criteria, and expectations: 5
+Communicating ideas and/or information:                             5
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 5
+Creating an environment that helps students learn:                  5
+Giving useful feedback on course objectives:                        5
+Helping students achieve course objectives:                         5
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     5
+Arithmetic Mean:                                                5.000
+Coefficient of Variation:                                       0.000
+=====================================================================
+
+Organizing the course:                                              3
+Explaining course requirements, grading criteria, and expectations: 5
+Communicating ideas and/or information:                             2
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 3
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        4
+Helping students achieve course objectives:                         5
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      4
+Overall, the effectiveness of the instructor in the course was:     4
+Arithmetic Mean:                                                3.909
+Coefficient of Variation:                                       0.267
+=====================================================================
+
+Organizing the course:                                              3
+Explaining course requirements, grading criteria, and expectations: 3
+Communicating ideas and/or information:                             1
+Showing respect and concern for students:                           3
+Stimulating interest in the course:                                 2
+Creating an environment that helps students learn:                  1
+Giving useful feedback on course objectives:                        2
+Helping students achieve course objectives:                         4
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      4
+Overall, the effectiveness of the instructor in the course was:     1
+Arithmetic Mean:                                                2.636
+Coefficient of Variation:                                       0.517
+=====================================================================
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 5
+Communicating ideas and/or information:                             3
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 5
+Creating an environment that helps students learn:                  3
+Giving useful feedback on course objectives:                        5
+Helping students achieve course objectives:                         4
+Use of Canvas to support my learning in this course was:            2
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     4
+Arithmetic Mean:                                                4.091
+Coefficient of Variation:                                       0.255
+=====================================================================
+
+Organizing the course:                                              4
+Explaining course requirements, grading criteria, and expectations: 5
+Communicating ideas and/or information:                             5
+Showing respect and concern for students:                           5
+Stimulating interest in the course:                                 5
+Creating an environment that helps students learn:                  5
+Giving useful feedback on course objectives:                        3
+Helping students achieve course objectives:                         4
+Use of Canvas to support my learning in this course was:            5
+Use of Canvas to communicate important course information was:      5
+Overall, the effectiveness of the instructor in the course was:     5
+Arithmetic Mean:                                                4.636
+Coefficient of Variation:                                       0.145
+=====================================================================
+
+#######################
+#  Numeric Summaries  #
+#######################
+
+Organizing the course:
+----------------------
+Arithmetic Mean:          3.722
+Coefficient of Variation: 0.180
+===============================
+
+Explaining course requirements, grading criteria, and expectations:
+-------------------------------------------------------------------
+Arithmetic Mean:          4.333
+Coefficient of Variation: 0.158
+===============================
+
+Communicating ideas and/or information:
+---------------------------------------
+Arithmetic Mean:          3.278
+Coefficient of Variation: 0.344
+===============================
+
+Showing respect and concern for students:
+-----------------------------------------
+Arithmetic Mean:          4.556
+Coefficient of Variation: 0.155
+===============================
+
+Stimulating interest in the course:
+-----------------------------------
+Arithmetic Mean:          3.611
+Coefficient of Variation: 0.331
+===============================
+
+Creating an environment that helps students learn:
+--------------------------------------------------
+Arithmetic Mean:          3.167
+Coefficient of Variation: 0.347
+===============================
+
+Giving useful feedback on course objectives:
+--------------------------------------------
+Arithmetic Mean:          3.611
+Coefficient of Variation: 0.254
+===============================
+
+Helping students achieve course objectives:
+-------------------------------------------
+Arithmetic Mean:          4.111
+Coefficient of Variation: 0.202
+===============================
+
+Use of Canvas to support my learning in this course was:
+--------------------------------------------------------
+Arithmetic Mean:          4.333
+Coefficient of Variation: 0.209
+===============================
+
+Use of Canvas to communicate important course information was:
+--------------------------------------------------------------
+Arithmetic Mean:          4.500
+Coefficient of Variation: 0.137
+===============================
+
+Overall, the effectiveness of the instructor in the course was:
+---------------------------------------------------------------
+Arithmetic Mean:          3.500
+Coefficient of Variation: 0.281
+===============================
+
+#######################
+#  Textual Summaries  #
+#######################
+
+What suggestions do you have for improving how the instructor taught the course?
+--------------------------------------------------------------------------------
+    1. One thing would be to maybe ask for more class participation in lecture
+       aspects to keep students motivated/interested.
+    2. Please, do NOT use idle for demonstrating code. It is very difficult to
+       follow the changes and correct mistakes. Please use Pycharm or even
+       notepad.Â Starting programs could be a bit more challenging. Now we are
+       at a good level of difficulty for how far we are in the course. It would
+       have been helpful when using args to explain the parameters more.
+       Telling us to go read the documentation isn't teaching. Class time feels
+       like too much talking and showing and not as much teaching Â
+    3. Im not sure. Something about how he explains it makes it so that it
+       doesn't stick with me. dont put stuff on tests and quizes that havn't
+       been on a submitted program. (IE: input/exceptions) Doing something
+       first time on a test or quiz is incredibly stressful.
+    4. This probably doesnâ€™t apply to everyone but I do have a somewhat
+       difficult time following along with the programming done in class. I try
+       writing down as much of the programs as I can to reference back to but I
+       never manage to get it all. It would be nice to get a copy/ text file of
+       the programs written in class to reference back to. I know in some cases
+       there are similar programs on canvas but this has not always been the
+       case and it would be easier for me to look at what was specifically
+       covered in class.
+    5. Explain in more detail what certain parts of python accomplish and how
+       they work. A large majority of the class is showing code that we have
+       not learned yet. A lot of our learning is reading the book or course
+       information on our own, which is fine, but going over these concepts
+       after we have read them would be very beneficial.
+    6. The instructor could go more into detail on the details (like figuring
+       out how to compress code down onto a single line using the special
+       python approaches)
+    7. maybe quizzes can help?Â he did good enough already
+    8. Hope the teacher teaches the lectures slowly, and explains the lecture's
+       content more clearly For example, give a few examples so that students
+       can understand how that function or program operates and understand the
+       program's logic.
+    9. I think teaching through a python file as supposed to the terminal would
+       be easier to understand.
+   10. It would be nice if he could follow a more structured format for his
+       presentations, it can be very hard to follow along sometimes.
+   11. More detailed personal feedback on assignments would be nice, but that
+       takes a lot of time, so not including it is understandable.
+   12. He seems a little bit nervous while teaching the class. Maybe be a
+       little bit more confident
+   13. I personally enjoy jumping around through various topics of python, but
+       there's an uncertainty to me about what will be on quizzes and tests. I
+       now realize that we are only tested over what we write programs for, at
+       least that's how it seems, but many people in my class still aren't
+       quite aware of that and I wasn't at the beginning. If we, for example,
+       look at a database python module, is it just for our benefit that we're
+       learning it, or is it going to be pertinent to passing the course?
+       Detailing what is necessary to do well in the course and what is just
+       for our benefit as programmers would be helpful. After all, this is an
+       elective course. Most people who take this don't just care about a nice
+       letter grade.
+   14. Speak slower. Try to keep student engage. Don't rush through the
+       material.
+   15. Slow down, Rather advanced topics are being thrown at us at a very fast
+       rate and this is only a elective class.
+   16. More enthusiastic delivery of the course material would help when trying
+       to follow along in class.
+   17. I dont have ideas at this time
+   18. Have greater clarity on the different method types and how they operate
+===============================================================================
+
+What did you like best about how the instructor taught the course?
+------------------------------------------------------------------
+    1. An abundance of material available on Canvas.
+    2. I like how he gave us many useful websites/resources to complete our
+       programs and further our learning.
+    3. He covered multiple methods to solve the problems.
+    4. Mr. Chappell was very helpful to students when a question was asked. He
+       would provide the question and answers for all students on canvas. And
+       he was very understanding when there was a problem or delay when turning
+       in assignments.
+    5. He replies emails very detail and give me good examples
+    6. Help student when we ask for help
+    7. I liked how chill and passionate the instructor was with the course
+    8. He is willing to help a lot with problems to guide us.
+    9. I hope the teacher do not give us very hard functions, or program
+       assignment. If give us a very hard program assignment, please give us
+       some clues or idea to direct us. because python has many functions and
+       syntax that we do not very familiar with.
+   10. He brings a great deal of enthusiasm for the language that is
+       contagious.
+   11. He will work through programs similar to our homework assignments so we
+       can learn alternative and more efficient means to work our programs
+   12. How well the canvas is organized. I have never had a teacher put as much
+       effort into making a good canvas experience for their students and I
+       really enjoy that.
+   13. I like how if you are stuck on something he doesn't just leave you
+       hanging.
+   14. I like how he shows many different ways of solving a problem and allows
+       us to choose one. He shows us a good solution to the programs when we
+       have completed them. He is well educated in python Â Â
+   15. I like how what is discussed in class is also followable on canvas
+       itself, and so it is easy to find examples that were gone over in class
+       that I was not able to write down.
+   16. He is always willing to help with assignments.
+   17. Mr. Chappelle is very humble, and that makes him instantly likeable. As
+       a northerner and someone with moderate ADHD, I find his talking speed a
+       comfortable pace for the class and I feel like I'm learning a lot more
+       in less time because of it. I also like his willingness to provide
+       answers and communicate with his students.
+   18. nothing really stands out
+===============================================================================
+
+What did you like best about the course?
+----------------------------------------
+    1. The language is very fun. We get to explore many modules. He allows many
+       ways to solve our programs. The programs are educational and easy.Â
+    2. I am undecided.
+    3. learning the basics of the language
+    4. The best that I like about this course is that every time when I go to
+       the teacher's office to ask the teacher some questions, the teacher is
+       very patient to teach me, and helps me to solve the questions properly.
+    5. learnt and played with pycharm to work with files
+    6. I definitely feel a little bit more stretched in this course, which I
+       feel is helping me understand python on a deeper level.
+    7. I like that it is over python. Python is a super cool language.Â
+    8. I have enjoyed learning python.
+    9. The maturity of it. The way the information and assignments are
+       presented make me feel like the instructor/course respects my abilities.
+       It's more open-ended and fun, but gives me room to think/search for
+       things and learn on my own. I honestly love that and it's refreshing
+       from other courses at this school.
+   10. That I feel like I'm actually learning something new.
+   11. The language
+   12. Improving my knowledge of python
+   13. I think it has a mostly good pace of things so far
+   14. Learning a new, popular language
+   15. Python. I really enjoy the language.
+   16. The assignments, although too easy for the most part in my opinion, were
+       fun to do.
+   17. It has given me a base to be able to use this language in the future.Â
+   18. Python code is much simpler than other languages in that there is a lot
+       of built in types, functions, and loops.
+===============================================================================
+
+What suggestions do you have for improving the course?
+------------------------------------------------------
+    1. I think the course could use a little more focus. Sometimes it feels
+       like we talk about a subject and then leave the subject, but then we
+       come back to it and it is a little confusing. By this, I don't mean that
+       we come back to a subject after we learn more that will help us do more,
+       because doing this makes sense. Instead I feel like we go back and forth
+       sometimes without a ton of reason. (one example being not doing all file
+       work stuff in a single given time, because we started working on
+       argparse but then we came back to files and it seemed really odd).
+    2. More clarity with quiz/test material is the primary thing. I know most
+       of the people in the class, and some of them are having trouble not
+       because they are bad programmers, but because of the scope of the
+       material was broader than they expected. Written material and the
+       instructor need to be more clear on what will be on tests and quizzes
+       for study purposes. Â
+    3. Assignments with more challenges to them would be nice.
+    4. better detail in the explanation of some finer and complex terms.
+    5. Explain concepts without code first, then apply the code to the concepts
+       that were taught.
+    6. I think having a quiz more often would be nice, so you don't have only 3
+       quiz grades by the end of the semester
+    7. Quicker feedback on assignments would be helpful, especially when a test
+       is coming up.
+    8. Don't try to get into as many advanced topics as possible, this is the
+       first time that many have ever seen or heard of this language.
+    9. Show more examples in the program format.
+   10. Do not use IDLE past the first class period. That is not a real-world
+       scenario. Explain more of what = '__main__' does and its purpose vs just
+       making the whole file main During the first class, go over the style
+       guides main requirements. while learning obscure ways to do certain
+       actions is fun, we should also focus on the most common ways. program 6
+       example output should be more accurate. Allowing us to be within 5% of
+       the correct answer doesn't teach us the correct way to achieve the
+       correct outcome. Example: use regex to remove all punctuation instead of
+       just a select few.
+   11. I hope that teacher teaches the python's content more clearly and
+       specifically. especially for some hard parts of python. Let students can
+       really understand python, program logic, and type the code more
+       efficiently than before.
+   12. overall its pretty good and we learnt lot of useful commands in python.
+       one thing I would suggest is that we could have some written test or
+       quiz, that might helps in students learning python as well. also if we
+       could have pycharm installed in lab computer would also help
+   13. Include more clarity on the functionality of different aspects of the
+       python language Change the due dates for projects so we can have the
+       weekend to work on the projects instead of only Monday - Friday
+   14. Nothing that I can think of at the momentÂ
+   15. Teach slower Communicate efficiently Â
+   16. Some kind of access to lecture notes that the teacher types up in class
+       would be very beneficial to at least me personally.
+   17. more class time to work on the programs. college is busy and other
+       classes have a ton of homework too. Â
+   18. None yet.
+===============================================================================
+
